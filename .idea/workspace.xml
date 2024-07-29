@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b750d1f-2746-4d98-8200-ed1c58b93a1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assingment5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/dependencies/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/dependencies/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/dependencies/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/tests/main.py" afterDir="false" />
+    <list default="true" id="6b750d1f-2746-4d98-8200-ed1c58b93a1b" name="Changes" comment="chore: init&#10;&#10;Initial commit for order_details.py">
+      <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ianrodriguez777/Assignment5.git",
+    "accountId": "875233a8-1a10-4801-8005-c78eb5f60c58"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -85,11 +75,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722219604630</updated>
-      <workItem from="1722219607283" duration="797000" />
+      <workItem from="1722219607283" duration="1182000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: init">
+      <option name="closed" value="true" />
+      <created>1722220513117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220513117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: init&#10;&#10;Initial commit for sandwiches.py">
+      <option name="closed" value="true" />
+      <created>1722220595267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220595267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: init&#10;&#10;Initial commit for resources.py">
+      <option name="closed" value="true" />
+      <created>1722220634027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220634027</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: init&#10;&#10;Initial commit for recipes.py">
+      <option name="closed" value="true" />
+      <created>1722220669433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220669433</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chore: init&#10;&#10;Initial commit for order_details.py">
+      <option name="closed" value="true" />
+      <created>1722220718151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220718151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: init" />
+    <MESSAGE value="chore: init&#10;&#10;Initial commit for sandwiches.py" />
+    <MESSAGE value="chore: init&#10;&#10;Initial commit for resources.py" />
+    <MESSAGE value="chore: init&#10;&#10;Initial commit for recipes.py" />
+    <MESSAGE value="chore: init&#10;&#10;Initial commit for order_details.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: init&#10;&#10;Initial commit for order_details.py" />
   </component>
 </project>
